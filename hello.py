@@ -111,3 +111,22 @@
 # number.remove(2)
 # print(number)
 
+# country = "USA"
+# print(country.isalpha())
+
+# phone = "123456789"
+# print (phone.isnumeric())
+
+# import math
+
+# price = 35.543435
+# print(round(price,2))
+# print(math.floor(price))
+# print(math.ceil(price))
+
+email = ""
+phone = "123456789"
+username = ""
+print (any([email,phone,username]))
+
+print (all([email,phone,username]))
